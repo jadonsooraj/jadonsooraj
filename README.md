@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jadonsooraj
-- 👀 I’m interested in Web Development and DSA
-- 🌱 I’m currently learning Full stack develepment
-- 💞️ I’m looking to collaborate on Development projects
+- 👀 I’m interested in the field of Data Science and want to pursue a Career in the field.
 - 📫 jadonsuraj49@gmail.com
 
 <!---
