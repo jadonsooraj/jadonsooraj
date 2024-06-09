@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sooraj Singh Jadon</h1>
-<h3>I am currently a final year student currently pursuing BE(Bachelors of Engineering) from Institute of Engineering & Technology, DAVV(Indore). With a passion for Data Science, I have dedicated my academic to learn and Grow in th field.</h3>
+<p>I am currently a final year student currently pursuing BE(Bachelors of Engineering) from Institute of Engineering & Technology, DAVV(Indore). With a passion for Data Science, I have dedicated my academic to learn and Grow in th field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadonsooraj&label=Profile%20views&color=0e75b6&style=flat" alt="jadonsooraj" /> </p>
 
