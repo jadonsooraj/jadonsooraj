@@ -1,9 +1,11 @@
 <h1>Hi 👋, I'm Sooraj Singh Jadon</h1>
 <p>I am currently a final year student currently pursuing BE(Bachelors of Engineering) from Institute of Engineering & Technology, DAVV(Indore). With a passion for Data Science, I have dedicated my academic to learn and Grow in th field.</p>
 
-## Education
+### Education
 
 - **Bachelors of Engineering**, Institute of Engineering & Technology, DAVV(Indore), 2021-2025
+
+  
 
 - 🌱 I’m currently learning **Data Visualisation, Data Analytics using Python**
 
