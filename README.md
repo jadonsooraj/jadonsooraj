@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Visualisation, Data Analytics using Python**
 
 - 📄 Know about my experiences [https://github.com/jadonsooraj/jadonsooraj/blob/main/Sooraj_Jadon_Resume.docx](https://github.com/jadonsooraj/jadonsooraj/blob/main/Sooraj_Jadon_Resume.docx)
-- 
+  
 ### Education
 
 - **Bachelors of Engineering**, Institute of Engineering & Technology, DAVV(Indore), 2021-2025
