@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/sooraj-jadon-94a9b3120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sooraj-jadon-94a9b3120" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jadonsuraj49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jadonsuraj49" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/jadonsuraj49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jadonsuraj49" height="30" width="40" /></a>
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://www.logoshape.com/svg/naukri-logo_logoshape.com.svg" alt="Naukri Profile" height="60" width="80" />
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank"><img align="center" src="https://www.logoshape.com/svg/naukri-logo_logoshape.com.svg" alt="Naukri Profile" height="80" width="100" />
 </a>
 </p>
 
