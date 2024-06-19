@@ -7,7 +7,7 @@
   
 ### Education
 
-- **Bachelors of Engineering**, Institute of Engineering & Technology, DAVV(Indore)   2021-2025
+- **Bachelors of Engineering**, Institute of Engineering & Technology, DAVV(Indore)  &nbsp&nbsp 2021-2025
 
   
 
