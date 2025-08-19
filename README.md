@@ -1,9 +1,5 @@
 <h1>Hi 👋, I'm Sooraj Singh Jadon</h1>
-<p>I am a final year student pursuing BE (Bachelors of Engineering) from Institute of Engineering & Technology, DAVV(Indore). With a passion for Data Science, I have dedicated my academic to learn and Grow in the field.</p>
-
-- 🌱 I’m currently learning **Data Visualisation, Data Analytics using Python**
-
-- 📄 Know about my experiences [https://github.com/jadonsooraj/jadonsooraj/blob/main/Sooraj_Jadon_Resume.docx](https://github.com/jadonsooraj/jadonsooraj/blob/main/Sooraj_Jadon_Resume.docx)
+<p>I am a Data Analyst at a FinTech. With a passion for Data Science, I have dedicated myself to learning and growing in the field.</p>
   
 ### Education
 
